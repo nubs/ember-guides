@@ -14,8 +14,7 @@ for those plugins.
 
 ## Dependencies
 
-The Guides are built with Middleman, which runs on Ruby 1.9.3 or newer
-(2.0.0 recommended).
+The Guides are built with Middleman and require Ruby 2.0.0 or newer.
 
 During build, Middleman will require Aspell to look for misspellings. On Macs, it can be installed via Homebrew:
 
